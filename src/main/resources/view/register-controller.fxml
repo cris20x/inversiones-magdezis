@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" styleClass="mainFxmlClass" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/21.0.1" fx:controller="main.java.com.inversiones.magdezis.empresa.comercial.controller.RegisterController">
+    <stylesheets>
+        <URL value="@/main/resources/css/register-controller.css" />
+    </stylesheets>
+   <children>
+      <GridPane layoutX="-3.0" prefHeight="400.0" prefWidth="600.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Pane prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="1">
+               <children>
+                  <TextField layoutX="28.0" layoutY="124.0" />
+                  <Text layoutX="37.0" layoutY="116.0" strokeType="OUTSIDE" strokeWidth="0.0" text="nombre" wrappingWidth="45.66015625" />
+                  <TextField layoutX="28.0" layoutY="176.0" />
+                  <Text layoutX="37.0" layoutY="171.0" strokeType="OUTSIDE" strokeWidth="0.0" text="apellido" />
+                  <TextField layoutX="28.0" layoutY="295.0" />
+                  <Text layoutX="37.0" layoutY="284.0" strokeType="OUTSIDE" strokeWidth="0.0" text="contraseña" wrappingWidth="71.97265625" />
+                  <TextField layoutX="26.0" layoutY="234.0" />
+                  <Text layoutX="37.0" layoutY="222.0" strokeType="OUTSIDE" strokeWidth="0.0" text="correo" wrappingWidth="42.251953125" />
+                  <Button layoutX="34.0" layoutY="335.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="135.0" text="registrarse" />
+               </children>
+            </Pane>
+            <Pane prefHeight="200.0" prefWidth="200.0" stylesheets="@../css/register-controller.css" GridPane.columnIndex="2" />
+         </children>
+      </GridPane>
+   </children>
+</AnchorPane>

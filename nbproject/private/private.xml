@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/model/Rol.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/service/LoginService.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/confing/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/model/Usuario.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/service/UsuarioService.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/resources/view/login-controller.fxml</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/security/jbcrypt/BCrypt.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/Main.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/repository/RolRepository.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/resources/css/login-controller.css</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/controller/LoginController.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/repository/UsuarioRepository.java</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/resources/view/register-controller.fxml</file>
+            <file>file:/C:/Users/Informatica/Documents/NetBeansProjects/inversiones-magdezis-empresa-comercial/src/main/java/com/inversiones/magdezis/empresa/comercial/controller/RegisterController.java</file>
+        </group>
+    </open-files>
+</project-private>
